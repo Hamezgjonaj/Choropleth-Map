@@ -1,3 +1,7 @@
+## Production Website
+
+Check out the live version of the project on https://choropleth-map.pages.dev/
+
 # Choropleth Map
 
 This is a web-based data visualization project that displays the percentage of adults age 25 and older with a bachelor's degree or higher in the United States. It uses D3.js library to create a choropleth map based on the data provided by the USDA Economic Research Service.
